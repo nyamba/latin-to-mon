@@ -2,19 +2,17 @@
 
 Латин үсгээр галиглаж бичсэнийг крилл үсэг рүү хөрвүүлэгч.
 
-## Хэрхэн хэрэглэх вэ
+## Хэрэглээ
 
 пакежаа npm сангаас татаж суулгана.
 
-```
-> yarn add latin-to-mon
+```bash
+yarn add latin-to-mon
 ```
 
 жишээ код:
 
-```
-
-const latin2mon = require('latin-to-mon')
-console.log(latin2mon('namyyn')) // "намуун" гэж хэвлэнэ.
-
+```js
+const latin2mon = require("latin-to-mon");
+console.log(latin2mon("namyyn")); // "намуун" гэж хэвлэнэ
 ```
