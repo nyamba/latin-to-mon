@@ -1,0 +1,29 @@
+{
+  "name": "latin-to-mon",
+  "version": "1.0.1",
+  "description": "latin үсгээр галиглаж бичсэн монгол бичвэрийг крилл үсэг рүү хөрвүүлнэ.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "mongolia",
+    "монгол",
+    "convert",
+    "крилл",
+    "хөрвүүлэгч",
+    "галиглах"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nyamba/latin-to-mon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nyamba/latin-to-mon/issues"
+  },
+  "author": "nyambayar.t",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
