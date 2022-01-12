@@ -23,6 +23,7 @@ test("хос тэмдэгтийн хөрвүүлэлт", () => {
   expect(latin2mon("khavar")).toBe("хавар");
   expect(latin2mon("tsamts")).toBe("цамц");
   expect(latin2mon("yoton")).toBe("ёотон");
+  expect(latin2mon("bayarsaikhan")).toBe("баярсайхан");
   expect(latin2mon("yeven")).toBe("еэвэн");
   expect(latin2mon("niislel")).toBe("нийслэл");
   expect(latin2mon("nokhoi")).toBe("нохой");

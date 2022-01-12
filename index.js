@@ -45,6 +45,7 @@ function replaceDoubles(value) {
     ["sh", "ш"],
     ["kh", "х"],
     ["yo", "ёо"],
+    ["ya", "я"],
     ["ye", "еэ"],
     ["ii", "ий"],
     ["oi", "ой"],
