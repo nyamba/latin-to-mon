@@ -1,9 +1,11 @@
 # latin to mon
 
 [![npm_svg]][npm_url]
+[![dl_url]][npm_url]
 
 [npm_svg]: https://img.shields.io/npm/v/latin-to-mon
 [npm_url]: https://www.npmjs.com/package/latin-to-mon
+[dl_url]: https://img.shields.io/npm/dw/latin-to-mon
 
 
 Латин үсгээр галиглаж бичсэнийг крилл үсэг рүү хөрвүүлэгч.
